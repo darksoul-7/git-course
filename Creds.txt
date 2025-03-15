@@ -1,2 +1,0 @@
-username - aniket
-password - 12345
